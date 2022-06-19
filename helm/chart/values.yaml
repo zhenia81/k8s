@@ -1,6 +1,6 @@
 # Default Values for my Helm Chart
 
 container:
-  image: adv4000/k8sphp:latest
+  image: zhenia1981/myk8sapp:latest
 
 replicaCount: 2
