@@ -3,7 +3,7 @@ name       : App-HelmChart
 description: My Helm chart for k8s
 type       : application
 version    : 0.1.0   # This is the Helm Chart version
-appVersion : "1.2.3" # This is the version of the application being deployed
+appVersion : "1.2.3" # This is the version of the application
 
 keywords:
   - apache
